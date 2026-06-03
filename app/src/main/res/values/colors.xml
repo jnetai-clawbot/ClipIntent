@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6200EE</color>
+    <color name="primary_variant">#FF3700B3</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_background">#FF000000</color>
+    <color name="on_surface">#FF000000</color>
+    <color name="text_primary">#DE000000</color>
+    <color name="text_secondary">#8A000000</color>
+    <color name="divider">#1F000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="chip_url">#FF1976D2</color>
+    <color name="chip_phone">#FF388E3C</color>
+    <color name="chip_email">#FF7B1FA2</color>
+    <color name="chip_address">#FFE64A19</color>
+    <color name="chip_tracking">#FFF57C00</color>
+    <color name="chip_crypto">#FFC2185B</color>
+    <color name="chip_text">#FF455A64</color>
+</resources>

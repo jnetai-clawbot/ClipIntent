@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ClipIntent</string>
+    <string name="clipboard_listening">ClipIntent is listening</string>
+    <string name="clipboard_listening_desc">Monitoring clipboard for smart actions</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="call_number">Call</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="compose_email">Compose Email</string>
+    <string name="open_in_maps">Open in Maps</string>
+    <string name="track_package">Track Package</string>
+    <string name="copy_to_clipboard">Copy</string>
+    <string name="delete">Delete</string>
+    <string name="search_hint">Search clipboard history…</string>
+    <string name="history_empty">No clipboard items yet. Copy something!</string>
+    <string name="toggle_service">Toggle Service</string>
+    <string name="service_enabled">ClipIntent active</string>
+    <string name="service_disabled">ClipIntent inactive</string>
+    <string name="content_detected_url">URL detected</string>
+    <string name="content_detected_phone">Phone number detected</string>
+    <string name="content_detected_email">Email detected</string>
+    <string name="content_detected_address">Address detected</string>
+    <string name="content_detected_tracking">Tracking number detected</string>
+    <string name="content_detected_crypto">Crypto address detected</string>
+    <string name="content_detected_text">Text saved to history</string>
+    <string name="notification_channel_monitor">Clipboard Monitor</string>
+    <string name="notification_channel_monitor_desc">Shows clipboard content and smart actions</string>
+    <string name="stop_service">Stop</string>
+    <string name="quick_settings_label">ClipIntent</string>
+</resources>
