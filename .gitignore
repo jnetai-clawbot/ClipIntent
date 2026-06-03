@@ -16,9 +16,6 @@ app/build/
 *.aab
 
 # Gradle
-gradle/wrapper/gradle-wrapper.jar
-
-# Misc
 *.log
 *.tmp
 *.swp
